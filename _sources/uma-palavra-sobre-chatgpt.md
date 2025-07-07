@@ -1,7 +1,7 @@
 ## Uma palavra sobre o ChatGPT
 
 Eu sou um grande entusiasta dos LLM, principalmente do ChatGPT. Quebram um galhão em todo tipo de atividade.
-Mas se pode confiar cegamente nele, por vários motivos.
+Mas não se pode confiar cegamente nele, por vários motivos.
 
 Além das alucinações – efeito que, a essa altura do
 campeonato, é conhecido por todos – é preciso levar em consideração que a conveniência nem sempre é amiga do estudante.
