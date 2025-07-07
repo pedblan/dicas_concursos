@@ -1,0 +1,18 @@
+format: jb-book
+root: intro
+
+chapters:
+  - file: nao-existe-concurseiro
+    title: Não existe “concurseiro”, gente
+  - file: metodo-e-rotina
+    title: Método e rotina
+  - file: letra-da-lei
+    title: A letra da lei
+  - file: ideologia
+    title: Ideologia
+  - file: diversificando-fontes
+    title: Diversificando suas fontes
+  - file: resolvendo-questoes
+    title: Resolvendo questões
+  - file: uma-palavra-sobre-chatgpt
+    title: Uma palavra sobre o ChatGPT
