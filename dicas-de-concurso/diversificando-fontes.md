@@ -43,7 +43,7 @@ graduação vale como experiência de estudo, e não para produzir conteúdo. Ma
 para quem está estudando para concursos.
 
 Dissertações de mestrado e teses de doutorado são textos muito bons porque contextualizam aspectos
-das leis. Academia é como um laboratório de ideias – algumas são boas, outras não.
+das leis, em versões que – em tese – são chanceladas por professores universitários  academia é como um laboratório de ideias – algumas são boas, outras não.
 Priorize a introdução e os primeiros capítulos. Você não está interessado(a) no argumento acadêmico do cara,
 e sim na explicação que ele faz sobre a história da lei X ou o ponto de vista do doutrinador Fulano. Nunca perca tempo
 com trololó. Se for o caso, use o CTRL + L (CTRL + F, se seu computador estiver em inglês) e vá direto ao ponto.

@@ -38,14 +38,14 @@ país segue o princípio da soberania popular (CF, art. 1º, p. único); quem va
 vice-presidente esteja impedido? O Presidente da Câmara (CF, art. 80), porque ele é “mais povo”. Por que a idade mínima
 do cargo de Senador é superior à do de Deputado? Porque o Senador deve ser “mais maduro”, etc.
 
-- Para reflexão: compare as competências privativas de Câmara e Senado (arts. 51 e 52). Quais delas se deduzem das
+- **Para reflexão**: compare as competências privativas de Câmara e Senado (arts. 51 e 52). Quais delas se deduzem das
 tradições de cada Casa? Quais parecem estranhas?
-- Para reflexão (ii): pesquise um esquema de processo legislativo nos sites da Câmara ou do Senado. Em que casos cada
+- **Para reflexão (ii)**: pesquise um esquema de processo legislativo nos sites da Câmara ou do Senado. Em que casos cada
 um desses órgãos atua como Casa iniciadora e como Casa revisora? Há alguma relação entre isso e as tradições de cada
 Casa?
-- Para reflexão (iii): reflita sobre a diferença na eleição de Senadores e Deputados (princípios
+- **Para reflexão (iii)**: reflita sobre a diferença na eleição de Senadores e Deputados (princípios
 majoritário versus proporcional, arts. 45 e 46). O que significa? Tem alguma relação com as “ideologias” de cada Casa?
-- Para reflexão (iv): essa constatação sobre a “ideologia” dos órgãos é uma maneira de pensar com base em princípios.
+- **Para reflexão (iv)**: essa constatação sobre a “ideologia” dos órgãos é uma maneira de pensar com base em princípios.
 Você vai fazer isso toda hora, principalmente com a Constituição. Preste muita atenção nos quatro primeiros artigos da
 Carta Magna – quando estiver em dúvida em alguma questão, você pode testar as alternativas em relação a esses
 dispositivos.
