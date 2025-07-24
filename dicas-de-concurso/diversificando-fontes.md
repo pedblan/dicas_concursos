@@ -47,8 +47,12 @@ das leis. Academia é como um laboratório de ideias – algumas são boas, outr
 Priorize a introdução e os primeiros capítulos. Você não está interessado(a) no argumento acadêmico do cara,
 e sim na explicação que ele faz sobre a história da lei X ou o ponto de vista do doutrinador Fulano. Nunca perca tempo
 com trololó. Se for o caso, use o CTRL + L (CTRL + F, se seu computador estiver em inglês) e vá direto ao ponto.
-- Ok, acho que exagerei um pouco. CTRL + L obviamente ajuda, mas é bom ler a parte de contextualização (em geral,
-introdução e primeiros capítulos das dissertações/teses), pois explicita o porquê das coisas.
-- Use o Google Acadêmico e não busquem artigos muito velhos!
 
+```{admonition}
+:class: note
+
+Ok, acho que exagerei um pouco. CTRL + L obviamente ajuda, mas é bom ler a parte de contextualização (em geral,
+introdução e primeiros capítulos das dissertações/teses), pois explicita o porquê das coisas.
+Use o Google Acadêmico e não busque artigos muito velhos (v. filtro ou pesquisa avançada).
+```
 

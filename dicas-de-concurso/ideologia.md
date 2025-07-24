@@ -8,6 +8,7 @@ explicitamente.
 Às vezes a ideologia é contrariada pelos fatos do cotidiano, mas isso não faz diferença; as fantasias das pessoas dizem muito
 sobre elas. Pensem nos órgãos públicos (em todas as instituições, na verdade) como casas mal-assombradas povoadas por
 fantasmas. Poltergeist não existe — mas o barulho que ele faz durante a madrugada é verdadeiro e todo mundo ouve.
+
 A ideologia do órgão ajuda a entender muita coisa. Tomemos, por exemplo, o Senado Federal. Por tradição, é a Câmara Alta,
 a Casa revisora, Casa dos Estados/da Federação (CF, art. 46), espaço de articulação entre os entes federados e reflexão e
 aprimoramento dos projetos políticos. Isso se dá em contraste com a Câmara dos Deputados, a Câmara Baixa, a Casa

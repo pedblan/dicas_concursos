@@ -21,6 +21,10 @@ consta do dispositivo.
 - Fazer tabelas comparando as diferentes situações regidas pela lei (e.g., tipos de licitação).
   Lembre-se: fazer o seu próprio esquema quase sempre vai valer mais a pena do que usar o caderno do colega ou o
   material do X Concursos.
-- Mas nunca perca tempo. Se o esquema estiver dando muito trabalho (setinhas coloridas, letra cursiva impecável, essas
+
+```{admonition} Nunca perca tempo
+:class: warning
+Mas nunca perca tempo. Se o esquema estiver dando muito trabalho (setinhas coloridas, letra cursiva impecável, essas
   coisas), pode ser que não valha tanto a pena. Use o computador, mas evite copiar e colar trechos da lei. Digitar você
   mesmo(a) mobiliza seu intelecto.
+```

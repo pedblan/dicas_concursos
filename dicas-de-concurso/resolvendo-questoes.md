@@ -70,18 +70,26 @@ Na verdade, se você raciocinar de maneira estritamente lógica, reconhecendo um
 tabela-verdade das proposições “A”, “E” e “‘A’ → ‘E’” e achei o exercício de uma futilidade incomparável. Você não vai ter
 tempo para isso.
 Bem, o que temos até agora?
-“A”: –
-“B”: —
-“C”: —
-“D”:
-“E”: –
+
+- “A”: –
+
+- “B”: —
+
+- “C”: —
+
+- “D”:
+
+- “E”: –
 
 Com base nisso, eu marcaria “D”, a única em que não achei defeito.
 Esse cenário, obviamente, é um caso extremo. O ideal é que você faça a prova sabendo o básico de cada tópico do programa,
 sobretudo em termos de princípios. A partir daí, você elabora um raciocínio.
 
-- Nunca se sinta mal por não saber exatamente a resposta e resolver a questão com um “chute consciente”. Isso é normal e todo
-mundo faz, mesmo gente com décadas de estudos e treino.
-- Na vida profissional, você precisa estar confortável com falta de
+```{admonition} Lembrete
+:class: warning
+
+Nunca se sinta mal por não saber exatamente a resposta e resolver a questão com um “chute consciente”. Isso é normal e todo
+mundo faz, mesmo gente com décadas de estudos e treino. Na vida profissional, você precisa estar confortável com falta de
 informações e situações de incerteza. Precisa confiar na intuição — que vai desenvolver lendo o site do Senado, vendo vídeos, lendo
 doutrina “gostosa de se ler”, etc.
+```

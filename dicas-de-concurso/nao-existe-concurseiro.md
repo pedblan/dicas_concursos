@@ -32,6 +32,6 @@ joguei dinheiro fora em outros nem tanto; fiz esquemas, treinei redação, resol
 Queria então compartilhar o que aprendi sobre preparação. Sei que essas coisas são idiossincráticas. Cada um tem o seu
 jeito de estudar, e eu não pretendo bancar o dono da verdade da carreira pública. Mas acho que o concurso do Senado é
 especialmente desafiador para quem é mais jovem, ou não teve muito contato com Poder Legislativo na vida profissional, e
-eu gostaria de ajudá-los a contornar isso.
+eu gostaria de ajudar a contornar isso.
 
 Vale, claro, refletir sobre o porquê de cada técnica antes de decidir se ela se adapta ou não à sua realidade.
