@@ -8,7 +8,9 @@ campeonato, é conhecido por todos – é preciso levar em consideração que a 
 Para memorizar as coisas, eu ainda acho melhor estudar a letra da lei e fazer exercícios do que produzir material no GPT.
 Você vai ficar mais confiante na hora da prova.
 
-Enfim, melhor usar os LLM para organizar os estudos, explicar conceitos específicos (peça para ele dizer a fonte, e confira!), fazer questões _etc_ do que para aprender o conteúdo
+Enfim, melhor usar os LLM para organizar os estudos, explicar conceitos específicos
+(peça para ele dizer a fonte, e confira!) e
+fazer questões do que para aprender o conteúdo
 propriamente dito.  
 
 Segue um artigo interessante sobre o tema:
